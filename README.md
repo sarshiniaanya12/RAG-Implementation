@@ -43,19 +43,6 @@ The objective of this project is to build a Retrieval-Augmented Generation syste
 
 ---
 
-## Dataset / Document Description
-
-The document is loaded using LangChain's `PyPDFLoader`.
-
-The PDF contains:
-
-- Income Tax concepts
-- Tax-related information
-- Historical tax information
-- Other related topics
-
----
-
 ## Data Processing
 
 The following document processing steps were performed:
