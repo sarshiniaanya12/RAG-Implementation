@@ -99,6 +99,8 @@ Relevant document chunk
 
 Retrieved context
 
+---
+
 ## Generation
 
 The retrieved information is passed to the **Google Gemini Large Language Model (LLM)** to generate the final response.
